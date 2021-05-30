@@ -72,11 +72,12 @@ const SignUp = styled.a`
   letter-spacing: 1.5px;
   font-size: 18px;
   padding: 16.5px 0px;
-  border 1px solid transparent;
+  border: 1px solid transparent;
   border-radius: 4px;
 
   &:hover {
-      background-color: #0483ee;
+    background-color: #0483ee;
+    cursor: pointer;
   }
 `;
 
