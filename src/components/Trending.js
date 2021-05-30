@@ -10,8 +10,8 @@ const Trending = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.pinimg.com/originals/d8/ae/ac/d8aeac4d55a3a935776ee1b146993231.gif"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0ECD36DD35658155915685271440833C29ED87E788CF8AE111AA6BCA6B939C37/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Tangled"
             />
           </Link>
         </Wrap>
@@ -19,8 +19,8 @@ const Trending = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.pinimg.com/originals/d8/ae/ac/d8aeac4d55a3a935776ee1b146993231.gif"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/501783804F435A386DBC4736F529A8EF664B1817CCB0B552E52D825B85B0A97B/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Moana"
             />
           </Link>
         </Wrap>
@@ -28,8 +28,8 @@ const Trending = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.pinimg.com/originals/d8/ae/ac/d8aeac4d55a3a935776ee1b146993231.gif"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EA416AD3B15FCC1BADC817A932A57FFF707556DB2233FFCB4CFEB7C8EEDE23C/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="The Simpsons"
             />
           </Link>
         </Wrap>
@@ -37,8 +37,8 @@ const Trending = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.pinimg.com/originals/d8/ae/ac/d8aeac4d55a3a935776ee1b146993231.gif"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/509E4D9F0BF98A9DC4CDD38954380782F6AB2664E503CC7652A37D18D06666BF/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Mickey mouse"
             />
           </Link>
         </Wrap>

@@ -10,8 +10,8 @@ const NewDisney = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.gadgets360cdn.com/large/Loki_poster_hotstar_1616135711794.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B983FF22BA64B6E19E0D3267280819B26758CFB765E8BED1099D11E320612953/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="A tail of two kitties"
             />
           </Link>
         </Wrap>
@@ -19,8 +19,8 @@ const NewDisney = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.gadgets360cdn.com/large/Loki_poster_hotstar_1616135711794.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E0501AFBAFCA1ABB5D31DBA7D1A913B2A35D70FD3DFD804939B71901577161D/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Raya"
             />
           </Link>
         </Wrap>
@@ -28,8 +28,8 @@ const NewDisney = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.gadgets360cdn.com/large/Loki_poster_hotstar_1616135711794.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/341AE85B6C1423B9042B5F2E786645EE551B9D546C3D263B220A4727617FD2B8/badging?width=400&amp;aspectRatio=1.78&amp;format=jpeg&amp;label=originals"
+              alt="The falcon and the winter soldier"
             />
           </Link>
         </Wrap>
@@ -37,8 +37,8 @@ const NewDisney = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://i.gadgets360cdn.com/large/Loki_poster_hotstar_1616135711794.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4B32D8CB7C0C358E9FF348FB0338AD13F9A5836808E9EF5FADD9DBDE52FC3CAD/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="My music story"
             />
           </Link>
         </Wrap>

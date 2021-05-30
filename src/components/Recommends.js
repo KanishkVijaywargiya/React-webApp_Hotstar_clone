@@ -10,8 +10,8 @@ const Recommends = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://www.1zoom.me/big2/72/167332-frederika.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/87F1DCF36049558159913ADFD18A800DE1121771540033EC3A7651B8FE154CEB/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Inside Out"
             />
           </Link>
         </Wrap>
@@ -19,8 +19,8 @@ const Recommends = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://www.1zoom.me/big2/72/167332-frederika.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/706C68FF1CEA5A9C2AE0608892C2DF79E4AC1F0DDB4BFF7FE6DAFC36DAFC0286/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Bao"
             />
           </Link>
         </Wrap>
@@ -28,8 +28,8 @@ const Recommends = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://www.1zoom.me/big2/72/167332-frederika.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C0A883EAB54DDDC924018D08CF4555EE72B3E9A8C214BDADF29CB82B5E2275D7/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Incredibles 2"
             />
           </Link>
         </Wrap>
@@ -37,8 +37,8 @@ const Recommends = () => {
         <Wrap>
           <Link to="/">
             <img
-              src="https://www.1zoom.me/big2/72/167332-frederika.jpg"
-              alt=""
+              src="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/01666FAA085FF29B709DB13975E563E5E047DAAFF7D8F331201CB73F3C30027E/scale?width=400&amp;aspectRatio=1.78&amp;format=jpeg"
+              alt="Auntie EDNA"
             />
           </Link>
         </Wrap>
