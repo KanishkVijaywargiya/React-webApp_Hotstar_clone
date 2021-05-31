@@ -2,7 +2,7 @@
 
 ### LIVE DEMO
 
-https://disneyplushotstar-f78fd.web.app/home
+https://disneyplushotstar-f78fd.web.app
 
 ### Description
 
