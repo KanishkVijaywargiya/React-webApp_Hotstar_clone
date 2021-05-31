@@ -10,9 +10,9 @@ This is the ReactJS Disney Plus Clone, the perfect project to put on your portfo
 
 ### PREREQUISITES:
 
-Sign up for a Firebase account HERE
-Install Node JS in your computer HERE
-Download all the images and videos HERE
+Sign up for a Firebase account HERE <br>
+Install Node JS in your computer HERE <br>
+Download all the images and videos HERE <br>
 
 ## Available Scripts
 
